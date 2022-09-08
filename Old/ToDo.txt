@@ -1,0 +1,6 @@
+Listing out various tasks that are to be done for the project:
+- Implement Genetic Algo
+- Integrate image processing with Genetic Algo
+- Design a GUI
+- Integrate GUI with a mainstream code
+- Prepare presentation
